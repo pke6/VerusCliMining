@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "R9vXV51Rj5RgYy7DFxfxk4HSDhLJhy7VyA.S8",
+	"user": "R9vXV51Rj5RgYy7DFxfxk4HSDhLJhy7VyA.bv7000",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/16",
